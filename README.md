@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Pratik1805
 - 👀 I’m interested in coding,exploring new technologies
-- 🌱 I’m currently learning Web development
+- Skills: HTML, CSS, Java,Python
+- 🌱 I’m currently learning Android Development
 - 📫 How to reach me ...
 Email : pratikpandey0532@gmail.com
 <!---
