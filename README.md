@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pratik1805
+- 👋 Hi, I’m Pratik Pandey
 - 👀 I’m interested in coding,exploring new technologies
 - Skills: HTML, CSS, Java,Python
 - 🌱 I’m currently learning Android Development
