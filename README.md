@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratik Pandey
 - 👀 I’m interested in coding,exploring new technologies
-- Skills: HTML, CSS, Java,Python
+- Skills: HTML, CSS, Java,Python,Android Development
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me ...
 Email : pratikpandey0532@gmail.com
