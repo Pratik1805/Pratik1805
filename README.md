@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pratik.pandey.career@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lzA4dLftEi4EIzDzPdHGrFGkncOYpWVP/view?usp=drive_link](https://drive.google.com/file/d/1lzA4dLftEi4EIzDzPdHGrFGkncOYpWVP/view?usp=drive_link)
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1TjjL7sn9LpxW0tf-7M8kJb9RL0kjARuR/view?usp=drive_link))
 
 - ⚡ Fun fact **I am a Gamer with a keen interest in story based game**
 
