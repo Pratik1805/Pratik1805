@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik1805&label=Profile%20views&color=0e75b6&style=flat-square" alt="pratik1805" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik1805" alt="pratik1805" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/pratikpandey007" target="blank"><img src="https://img.shields.io/twitter/follow/pratikpandey007?logo=twitter&style=for-the-badge" alt="pratikpandey007" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pratik.pandey.career@gmail.com**
 
-- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/15lajdYUdFvMbWuLr8I3zp6ytaBnAGlP8/view?usp=drivesdk))
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/1o2xa7JQEDhlxgLYciLa5hkZcs8iBbR6E/view?usp=sharing))
 
 - ⚡ Fun fact **I am a Gamer with a keen interest in story based game**
 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik1805&show_icons=true&theme=tokyonight&locale=en" alt="pratik1805" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik1805&theme=dark" alt="pratik1805" /></p>
+
