@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/pratikpandey007" target="blank"><img src="https://img.shields.io/twitter/follow/pratikpandey007?logo=twitter&style=for-the-badge" alt="pratikpandey007" /></a> </p>
 
-- 🌱 I’m currently learning MERN Stack **React.js, Tailwind CSS**
+- 🌱 I’m currently learning about Devops, Devops Tols and Automation **
 
-- 💬 Ask me about **Android, Front-end development**
+- 💬 Ask me about **Android, Front-end development, Shell Scripting, Python Scripting/Automation **
 
 - 📫 How to reach me **pratik.pandey.career@gmail.com**
 
